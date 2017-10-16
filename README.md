@@ -1,2 +1,2 @@
-# practice_gitthub
+# gitthub-practice
 gitthub practice
